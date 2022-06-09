@@ -21,7 +21,7 @@
 
 ### `⚙️ Run ⚙️`
 
-> **Installing Pandas**
+> **Installing Pandas, NumPy and MatplotLib**
 
 * If you have the anaconda python installed, the pandas, numpy and matplotlib library is already installed. Else, open the cmd/prompt and type:
 
