@@ -12,6 +12,8 @@
 
 ### `⚒️ Tools ⚒️`
 
+* Python version 3.6 or above;
+
 
 ----
 <br>
