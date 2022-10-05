@@ -14,7 +14,7 @@
 
 * Python version 3.6 or above;
 * Anaconda and Python DataScience Stack (pandas, numpy and matplotlib in particular);
-
+* Jupyter Notebook
 
 ----
 <br>
